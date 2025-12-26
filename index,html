@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <!-- Don't forget to add the viewport meta tag, the charset meta tag, and the title tag next time! :)
+     Along with their relevant attributes and values -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index Page</title>
+</head>
+<body>
+    <h1>Welcome to the Index Page</h1>
+    <p>This is a sample paragraph on the index page.</p>
+</body>
+<!-- Comment started/written by relevant shortcut: Ctrl + / -->
+</html>
